@@ -1,0 +1,23 @@
+// we discusses in html
+just understand how css works
+css:cascading style sheets,these are used to include styling/designing into web pages
+there are 3ways;
+inlinne
+ internal styling:means apply as a element <style>
+ selector{
+    property-name:value;
+ }
+ </style>
+ /*selectors can be directly tagnames like h1,div etc or classname like .class1,.class2..or id like #id1,....
+ external css:we can write css in separate file with dot css extension and link that css into html file.
+ <lnk rel="stylesheet" href="link"/>
+
+
+
+ box model:
+ gap betweeen inner value and border line known as padding,
+ margin:space between two boxes
+ properties:
+ background color(haxcode,colorname,rgba ,;inear gradient,radial,rgb)
+,background image,clor,text-align.
+ 
